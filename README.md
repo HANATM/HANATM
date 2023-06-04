@@ -3,7 +3,7 @@
 
 > ### 🖥️  See my linkedin Profile at [Linkedin](https://www.linkedin.com/in/hana-toumanari-53a3431a3/)</br>
 > ### ✉️  My e-mail : toumanarihanaa@gmail.com</br>
- > ### 'How can we get ahead of crazy if we don't know how crazy thinks?'
+ > ### 'How do we get ahead of crazy if we don't know how crazy thinks?'
  > -Mindhunter</br>
 
 
