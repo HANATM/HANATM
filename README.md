@@ -1,5 +1,5 @@
 ### Hi, i'm Hana Toumanari 👋
-<h3 align="center">Cyber security Engineering student | Purple-Hat</h3></br>
+<h3 align="center">Cybersecurity Engineering student | Purple-Hat</h3></br>
 
 > ### 🖥️  See my linkedin Profile at [Linkedin](https://www.linkedin.com/in/hana-toumanari-53a3431a3/)</br>
 > ### ✉️  My e-mail : toumanarihanaa@gmail.com</br>
