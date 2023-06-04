@@ -1,8 +1,8 @@
 ### Hi, i'm Hana Toumanari 👋
 <h3 align="center">Cyber security Engineer | Purple-Hat</h3></br>
 
-> ### 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/hana-toumanari-53a3431a3/)</br>
-> ### ✉️  You can contact me at toumanarihanaa@gmail.com</br>
+> ### 🖥️  See my linkedin Profile at [Linkedin](https://www.linkedin.com/in/hana-toumanari-53a3431a3/)</br>
+> ### ✉️  My e-mail : toumanarihanaa@gmail.com</br>
  > ### 'How can we get ahead of crazy if we don't know how crazy thinks'</br>
 
 
