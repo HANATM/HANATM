@@ -6,6 +6,10 @@
  > ### 'How do we get ahead of crazy if we don't know how crazy thinks?'
  > -Mindhunter</br>
 
+ <p align="center">
+  <img src="Images/Purple-Hat-Hana.jpeg" width="600" height="400">
+
+
 
 <!--
 **HANATM/HANATM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
