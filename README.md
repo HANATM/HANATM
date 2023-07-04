@@ -7,7 +7,9 @@
  > -Mindhunter</br>
 
  <p align="center">
-  <img src="Images/Purple-Hat-Hana.jpeg" width="600" height="400">
+  <img src="Images/Purple-Hat-Hana.jpeg" width="400" height="300">
+  </p>
+
 
 
 
