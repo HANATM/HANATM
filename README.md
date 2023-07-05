@@ -6,8 +6,8 @@
  > ### - "How do we get ahead of crazy if we don't know how crazy thinks?" -Mindhunter </br>
  <br/>
  📚 Books I'm reading<br/>
- * [Cybersecurity in Morocco by my professor Dr.Yassine Maleh](https://link.springer.com/book/10.1007/978-3-031-18475-8)<br/>
- * [Black Hat Python (python programming for hackers and pentesters)](https://pdfroom.com/books/black-hat-python/Jr2ELG6Rgyv)<br/>
+[Cybersecurity in Morocco by my professor Dr.Yassine Maleh](https://link.springer.com/book/10.1007/978-3-031-18475-8)<br/>
+[Black Hat Python (python programming for hackers and pentesters)](https://pdfroom.com/books/black-hat-python/Jr2ELG6Rgyv)<br/>
  
 
                
