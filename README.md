@@ -8,7 +8,7 @@
                
 <h2 center="align">PURPLE HAT </h2>
  <p align="center">
-  <img src="Purple hat hana.PNG" width="400" height="300">
+  <img src="Purple hat hana.PNG" width="600" height="300">
   </p>
 
 
