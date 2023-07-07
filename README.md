@@ -5,15 +5,10 @@
 > ### ✉️  My e-mail : toumanarihanaa@gmail.com</br>
  > ### - "How do we get ahead of crazy if we don't know how crazy thinks?" -Mindhunter </br>
  <br/>
- 📚 Books I'm reading<br/>
-[Cybersecurity in Morocco](https://link.springer.com/book/10.1007/978-3-031-18475-8)  by my Professor Dr.Yassine Maleh <br/>
-[Black Hat Python](https://pdfroom.com/books/black-hat-python/Jr2ELG6Rgyv)<br/>
- 
-
                
 <h2 center="align">PURPLE HAT </h2>
  <p align="center">
-  <img src="Images/Purple-Hat-Hana.png" width="400" height="300">
+  <img src="Purple hat hana.PNG" width="400" height="300">
   </p>
 
 
