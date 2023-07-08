@@ -12,7 +12,7 @@
   </p>
 
   ### Languages and Tools:
-  [<img align="left" alt="VSCODE" width="26px" src="VSCODE.png" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="VSCODE" width="26px" src="VSCODE.png" style="padding-right:10px;" />
 
 
 
