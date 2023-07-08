@@ -12,17 +12,17 @@
   </p>
 
   ### Languages and Tools:
-  <img align="left" alt="VSCODE" width="46px" src="VSCODE.png" style="padding-right:10px;" />
-  <img align="left" alt="PYTHON." width="46px" src="PYTHON..png" style="padding-right:10px;" />
-  <img align="left" alt="Ansible" width="46px" src="Ansible.png" style="padding-right:10px;" />
-  <img align="left" alt="Raspberry" width="46px" src="Raspberry Pi.png" style="padding-right:10px;" />
-  <img align="left" alt="Kibana" width="46px" src="Kibana.png" style="padding-right:10px;" />
-  <img align="left" alt="Linux" width="46px" src="Linux.png" style="padding-right:10px;" />
-  <img align="left" alt="Debian" width="46px" src="Debian.png" style="padding-right:10px;" />
-  <img align="left" alt="powershell" width="46px" src="Powershell.png" style="padding-right:10px;" />
-  <img align="left" alt="AWS" width="46px" src="AWS.png" style="padding-right:10px;" />
-  <img align="left" alt="pfsense" width="46px" src="pfSense.png" style="padding-right:10px;" />
-  <img align="left" alt="Azure" width="46px" src="Azure.png" style="padding-right:10px;" />
+  <img align="left" alt="VSCODE" width="40px" src="VSCODE.png" style="padding-right:10px;" />
+  <img align="left" alt="PYTHON." width="40px" src="PYTHON..png" style="padding-right:10px;" />
+  <img align="left" alt="Ansible" width="40px" src="Ansible.png" style="padding-right:10px;" />
+  <img align="left" alt="Raspberry" width="40px" src="Raspberry Pi.png" style="padding-right:10px;" />
+  <img align="left" alt="Kibana" width="40px" src="Kibana.png" style="padding-right:10px;" />
+  <img align="left" alt="Linux" width="40px" src="Linux.png" style="padding-right:10px;" />
+  <img align="left" alt="Debian" width="40px" src="Debian.png" style="padding-right:10px;" />
+  <img align="left" alt="powershell" width="40px" src="Powershell.png" style="padding-right:10px;" />
+  <img align="left" alt="AWS" width="40px" src="AWS.png" style="padding-right:10px;" />
+  <img align="left" alt="pfsense" width="40px" src="pfSense.png" style="padding-right:10px;" />
+  <img align="left" alt="Azure" width="40px" src="Azure.png" style="padding-right:10px;" />
 
 
 <!--
