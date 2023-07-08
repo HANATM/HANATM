@@ -11,6 +11,9 @@
   <img src="Purple hat hana.PNG" width="600" height="300">
   </p>
 
+  ### Languages and Tools:
+  [<img align="left" alt="VSCODE" width="26px" src="VSCODE.png" style="padding-right:10px;" />][webdevplaylist]
+
 
 
 
