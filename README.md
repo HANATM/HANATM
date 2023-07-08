@@ -13,7 +13,7 @@
 
   ### Languages and Tools:
   <img align="left" alt="VSCODE" width="26px" src="VSCODE.png" style="padding-right:10px;" />
-  <img align="left" alt="PYTHON" width="26px" src="PYTHON.png" style="padding-right:10px;" />
+  <img align="left" alt="PYTHON." width="26px" src="PYTHON..png" style="padding-right:10px;" />
 
 
 
