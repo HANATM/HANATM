@@ -14,6 +14,8 @@
   ### Languages and Tools:
   <img align="left" alt="VSCODE" width="46px" src="VSCODE.png" style="padding-right:10px;" />
   <img align="left" alt="PYTHON." width="46px" src="PYTHON..png" style="padding-right:10px;" />
+   <img align="left" alt="ANSIBLE" width="46px" src="  <img align="left" alt="PYTHON." width="46px" src="PYTHON..png" style="padding-right:10px;" />
+" style="padding-right:10px;" />
 
 
 
