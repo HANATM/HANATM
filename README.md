@@ -10,7 +10,8 @@
  <p align="center">
   <img src="Purple hat hana.PNG" width="600" height="300">
   </p>
-  h3 align="left">Connect with me:</h3>
+  <br/>
+ <h3  align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hana-toumanari-53a3431a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana-toumanari-53a3431a3" height="30" width="40" /></a>
 <a href="https://medium.com/@hanatoumanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanatoumanari" height="30" width="40" /></a>
