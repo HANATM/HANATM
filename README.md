@@ -10,7 +10,7 @@
  <p align="center">
   <img src="Purple hat hana.PNG" width="600" height="300">
   </p>
- <h3  align="left">Connect with me:</h3>
+ <h3  align="left">- Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hana-toumanari-53a3431a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana-toumanari-53a3431a3" height="30" width="40" /></a>
 <a href="https://medium.com/@hanatoumanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanatoumanari" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 
 </p>
 
-  ### Languages and Tools:
+  ### - Languages and Tools:
   <img align="left" alt="VSCODE" width="40px" src="VSCODE.png" style="padding-right:10px;" />
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a>  
 <img align="left" alt="Ansible" width="40px" src="Ansible.png" style="padding-right:10px;" />
