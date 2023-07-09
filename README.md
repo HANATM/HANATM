@@ -19,8 +19,7 @@
 
   ### Languages and Tools:
   <img align="left" alt="VSCODE" width="40px" src="VSCODE.png" style="padding-right:10px;" />
-  <img align="left" alt="PYTHON." width="40px" src="PYTHON..png" style="padding-right:10px;" />
-  <img align="left" alt="Ansible" width="40px" src="Ansible.png" style="padding-right:10px;" />
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <img align="left" alt="Ansible" width="40px" src="Ansible.png" style="padding-right:10px;" />
   <img align="left" alt="Raspberry" width="40px" src="Raspberry Pi.png" style="padding-right:10px;" />
   <img align="left" alt="Kibana" width="40px" src="Kibana.png" style="padding-right:10px;" />
   <img align="left" alt="Linux" width="40px" src="Linux.png" style="padding-right:10px;" />
